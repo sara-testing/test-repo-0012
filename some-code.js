@@ -1,1 +1,1 @@
-
+console.log("token","Bearer ewogICAibmFtZSI6ICIgc29tZSByYW5kb20gcGVyc29uIiwKICAgImFkZHJlc3MiOiIyMzQgUnVlIFBpY2hpbmNvbG8sIGl0YWx5IiwKICAgInVybCI6ICIiLAogICAicm9sZXMiOlsiYWRtaW4iLCJ1c2VyIl0KfQ==")
